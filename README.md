@@ -37,5 +37,5 @@ A 3-page eCommerce checkout simulation with React frontend, Express backend, and
 ## Create .env file in client/
 
    ```bash
-   REACT_APP_BACKEND_URI="http://localhost:5000"
+   REACT_APP_BACKEND_URI=http://localhost:5000
    ```
