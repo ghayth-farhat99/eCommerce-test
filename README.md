@@ -26,7 +26,6 @@ A 3-page eCommerce checkout simulation with React frontend, Express backend, and
    cd ../server && npm install
    ```
 
-
 ## Create .env file in server/
 
    ```bash
@@ -38,4 +37,14 @@ A 3-page eCommerce checkout simulation with React frontend, Express backend, and
 
    ```bash
    REACT_APP_BACKEND_URI=http://localhost:5000
+   ```
+
+## Start
+
+   ```bash
+   # In server directory:
+   npm run dev
+
+   # In client directory:
+   npm start
    ```
