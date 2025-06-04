@@ -43,7 +43,7 @@ A 3-page eCommerce checkout simulation with React frontend, Express backend, and
 
    ```bash
    # In server directory:
-   npm run dev
+   npm start
 
    # In client directory:
    npm start
