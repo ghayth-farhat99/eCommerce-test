@@ -1,0 +1,10 @@
+# dependencies
+node_modules/
+
+
+# logs
+*.log
+logs/
+
+# system files
+.DS_Store
